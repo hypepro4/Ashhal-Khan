@@ -1,0 +1,1 @@
+While making this website through html I faced an issue while making the sound work i tried using the mp3 file as the source and it didnt work then I hosted the mp3 link online and then used Url though the audio was still not working so then I converted the mp3 file to base64 and the audio finally worked!
